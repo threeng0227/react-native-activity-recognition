@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.xebia.activityrecognition" >
+4
+5    <uses-sdk android:minSdkVersion="28" />
+6
+7    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+7-->/Users/admin/Desktop/unity-fitness-app/node_modules/react-native-activity-recognition/android/src/main/AndroidManifest.xml:3:5-93
+7-->/Users/admin/Desktop/unity-fitness-app/node_modules/react-native-activity-recognition/android/src/main/AndroidManifest.xml:3:22-91
+8
+9</manifest>
