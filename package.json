@@ -23,13 +23,13 @@
     }
   ],
   "license": "GPL",
-  "homepage": "https://github.com/threeng0227/react-native-activity-recognition#readme",
+  "homepage": "https://github.com/XebiaStudio/react-native-activity-recognition#readme",
   "repository": {
     "url": "git+https://github.com/XebiaStudio/react-native-activity-recognition.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/threeng0227/react-native-activity-recognition/issues"
+    "url": "https://github.com/XebiaStudio/react-native-activity-recognition/issues"
   },
   "devDependencies": {
     "react": "^15.3.2",
